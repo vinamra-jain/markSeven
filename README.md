@@ -1,2 +1,2 @@
 # markSeven
- This repository contains my asssignment for markSeven of neog.camp
+ This repository contains my assignment for markSeven of neog.camp
